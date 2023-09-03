@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmarket"]=self["webpackChunkmarket"]||[]).push([[152],{6054:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var u=n(3396),a=n(1728);const r=(0,u._)("section",{class:"mx-auto"},"Not Found",-1);var s={__name:"NotFoundView",setup(t){return(t,e)=>((0,u.wg)(),(0,u.j4)(a.Z,null,{default:(0,u.w5)((()=>[r])),_:1}))}};const o=s;var c=o}}]);
+//# sourceMappingURL=not_found.304ecedc.js.map
